@@ -45,7 +45,7 @@ This project is designed to create and implement a streamlined automation flow f
   - **Automation and Alerts:** Set up automated reporting and alert systems within Log Analytics to monitor and respond to any deviations from the desired configuration.
 
 ---
-<img src="https://i.imgur.com/omTY8ZJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/omTY8ZJ.png" height="80%" width="80%" alt="LinkedInLearning"/>
 
 ## Automation Flow
 
@@ -77,7 +77,7 @@ This project is designed to create and implement a streamlined automation flow f
 - **Setup and Integration:** Integrated Update Management with Microsoft Log Analytics to provide comprehensive monitoring and analysis of update compliance across VMs.
 - **Computer Group Definition:** Defined computer groups using dynamic membership rules or manual additions to categorize machines for more granular management.
 - **Pre and Post-Scripts:** Configured scripts to execute before and after updates, ensuring compliance and addressing potential issues that may arise during the update process.
-<img src="https://i.imgur.com/fMBj2fs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fMBj2fs.png" height="80%" width="80%" alt="LinkedInLearning"/>
 
 ### 7. Monitoring and Reporting
 - **Automated Monitoring:** Leverages Azure Log Analytics and Update Management to continuously monitor the health and compliance of deployed VMs.
